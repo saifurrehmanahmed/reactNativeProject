@@ -66,7 +66,7 @@ const App: () => Node = () => {
         contentInsetAdjustmentBehavior="automatic"
         style={backgroundStyle}>
         <Header />
-        
+        <Text>Saif</Text>
       </ScrollView>
     </SafeAreaView>
   );
